@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Lê Trung Kiên >, MSSV <226122>.
+Đây là README từ nhánh main.
